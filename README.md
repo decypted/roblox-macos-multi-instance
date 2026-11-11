@@ -209,4 +209,4 @@ This project isn't affiliated with or endorsed by Roblox Corporation. Running mu
 
 MIT © 2026 decypted. See LICENSE.
 
-Based on [AntiAFK-RBX](https://github.com/Agzes/AntiAFK-RBX?utm_source=chatgpt.com) by Agzes.
+Based on [AntiAFK-RBX](https://github.com/Agzes/AntiAFK-RBX) by Agzes.
