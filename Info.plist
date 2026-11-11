@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleName</key>
+    <string>RBX Multi-Instance</string>
+    <key>CFBundleDisplayName</key>
+    <string>RBX Multi-Instance</string>
+    <key>CFBundleIdentifier</key>
+    <string>com.decypted.rbx-multi.mac</string>
+    <key>CFBundleExecutable</key>
+    <string>RBX-Multi-Instance</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>13.0</string>
+    <key>NSMicrophoneUsageDescription</key>
+    <string>Roblox windows opened by RBX Multi-Instance use the microphone for voice chat.</string>
+    <key>NSCameraUsageDescription</key>
+    <string>Roblox windows opened by RBX Multi-Instance use the camera for face tracking.</string>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSHumanReadableCopyright</key>
+    <string>Copyright © 2026 decypted. MIT License. Based on AntiAFK-RBX by Agzes.</string>
+</dict>
+</plist>
